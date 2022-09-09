@@ -1,7 +1,7 @@
 {
     "03d1670c-4a20-1e16-2c86-9f0c2c714c3f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag SM.mesh.nasset/Flag SM Fabric Blue Light 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -34,7 +34,7 @@
     },
     "07b77a54-4065-a830-6cdd-b05a8e398ec7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Carpet.mesh.nasset/Carpet Gold.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -51,7 +51,7 @@
     },
     "10de5f6d-ccba-6ce7-6f17-c63242bb23e5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Torch.mesh.nasset/Torch Fire.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -59,7 +59,7 @@
     },
     "13df08d2-11d0-2d88-7171-6829a70b02d8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Base.mesh.nasset/Chest Base Steel Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -83,7 +83,7 @@
     },
     "19cfcf5f-78c7-3a80-f61b-999c9d54f1ec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stone Wall.mesh.nasset/Stone Wall Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -91,7 +91,7 @@
     },
     "19f8d557-ac63-5e5f-e9af-19b84e91e237": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Lid.mesh.nasset/Chest Lid Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -103,7 +103,7 @@
     },
     "1baad0e8-05c4-6a9f-8dbf-970f9f0ef3a4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Column Mid.mesh.nasset/Column Mid Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -111,7 +111,7 @@
     },
     "1c442a9a-df0a-c263-84a1-bba8dd72c282": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion White LG.mesh.nasset/Potion White LG Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -131,7 +131,7 @@
     },
     "1d8aa76a-bba6-206f-a207-0f1bdf7425d1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Base.mesh.nasset/Chest Base Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -139,7 +139,7 @@
     },
     "2395e07c-af3f-aec7-77e7-22deefdde11b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Vial.mesh.nasset/Potion Vial Liquid.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -155,7 +155,7 @@
     },
     "277ec398-ec59-e277-a36a-fa2e8ce317dc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Column Bot.mesh.nasset/Column Bot Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -167,7 +167,7 @@
     },
     "28e2f60a-cfb8-3944-a16d-a6008ba30704": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Gold Base.mesh.nasset/Chest Gold Base Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -179,7 +179,7 @@
     },
     "2a55d7bd-c3ab-b488-6fb3-c147542fabe5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Window.mesh.nasset/Window Steel Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -187,7 +187,7 @@
     },
     "2b18fcc5-e7cf-f923-c26c-c778b175ba15": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stone Wall Top.mesh.nasset/Stone Wall Top Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -203,7 +203,7 @@
     },
     "2d976aea-7937-7ebc-cbeb-9e76a7ffd024": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Vial.mesh.nasset/Potion Vial Cork.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -227,7 +227,7 @@
     },
     "36040434-686d-df04-d545-702db60d779a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Book Open.mesh.nasset/Book Open Paper.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -235,7 +235,7 @@
     },
     "3810c0c7-65cf-7300-640e-790e86b343ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Candelabrum LG.mesh.nasset/Candelabrum LG Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -243,7 +243,7 @@
     },
     "3838d2fe-285f-a15a-667e-980278efc38c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Blue.mesh.nasset/Potion Blue Cork.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -251,7 +251,7 @@
     },
     "3ad69b1b-a96c-6645-cd8a-8ce51302de97": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Rock 02.mesh.nasset/Rock 02 Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -259,7 +259,7 @@
     },
     "3bf0804b-d469-9017-dd46-d15c18f2a24b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Rock 05.mesh.nasset/Rock 05 Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -267,7 +267,7 @@
     },
     "3ea3309c-7f84-7b72-99fe-46e6e9d7c593": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion White.mesh.nasset/Potion White Liquid.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -275,7 +275,7 @@
     },
     "4527f39e-0d81-7e01-c08d-e96679230e3e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Bone Pile LG.mesh.nasset/Bone Pile LG Bones.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -283,7 +283,7 @@
     },
     "475e8e73-deac-90c1-0afc-fd2b9aaf9a81": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Bone Pile SM.mesh.nasset/Bone Pile SM Bones.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -299,7 +299,7 @@
     },
     "4ac9f409-6f35-344c-acc0-95fd7afa2acc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stone Wall Top.mesh.nasset/Stone Wall Top Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -307,7 +307,7 @@
     },
     "4b3c5098-c752-d783-05c4-f2ffbb681f93": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Column Mid.mesh.nasset/Column Mid Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -323,7 +323,7 @@
     },
     "4e9d2cfb-3402-edae-4352-f6e18b26f9ef": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Gold Lid.mesh.nasset/Chest Gold Lid Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -331,7 +331,7 @@
     },
     "4ed1be3f-cfc6-efc1-e518-aab948707f40": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Gold Base.mesh.nasset/Chest Gold Base Steel Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -347,7 +347,7 @@
     },
     "53360d92-b2ee-6d71-3803-51c57ecb7ca2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Blue.mesh.nasset/Potion Blue Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -355,7 +355,7 @@
     },
     "53eee647-7fb8-5568-308e-2db0d068ef76": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Column Top.mesh.nasset/Column Top Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -375,7 +375,7 @@
     },
     "5c5749ee-486d-0ebe-d14b-2f7b4940b594": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Teal.mesh.nasset/Potion Teal Ice.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -383,7 +383,7 @@
     },
     "5cb400a9-7117-5bb0-48ea-b94f26b801d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Gold Lid.mesh.nasset/Chest Gold Lid Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -391,7 +391,7 @@
     },
     "5eb03ce7-3ddf-3c41-2fd1-eac8d283f02a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion White.mesh.nasset/Potion White Cork.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -408,7 +408,7 @@
     },
     "60a3ca1a-bd16-0629-f31e-32afa4bcf9b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag LG.mesh.nasset/Flag LG Blue Fabric.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -416,7 +416,7 @@
     },
     "6355018c-2893-8aa2-5ffc-769d77c8e07d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Candle.mesh.nasset/Candle Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -424,7 +424,7 @@
     },
     "64e303fa-2111-fdda-9d53-fbe752917a54": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Barrel.mesh.nasset/Barrel Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -432,7 +432,7 @@
     },
     "65481972-49f1-53f0-f492-b2a95b39fecb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Blue.mesh.nasset/Potion Blue Gold.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -456,7 +456,7 @@
     },
     "66b82212-dc45-5939-ace6-665e9ff0763e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag SM.mesh.nasset/Flag SM Sandstone.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -468,7 +468,7 @@
     },
     "67b61de0-f33c-66d4-2dd7-b9f65d254ea2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Candle.mesh.nasset/Candle Gold.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -476,7 +476,7 @@
     },
     "6a06b390-c826-9cef-5b81-f96a81ab45e4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Floor.mesh.nasset/Floor Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -488,7 +488,7 @@
     },
     "6f83fa37-88f6-4b6b-cad8-86f7129a0ad8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Teal.mesh.nasset/Potion Teal Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -504,7 +504,7 @@
     },
     "717b4aa5-7205-c5be-06a3-156b6dc4787e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Entrance.mesh.nasset/Entrance Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -516,7 +516,7 @@
     },
     "74184d67-db42-d749-b5ea-a6a7002938ea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Book Open.mesh.nasset/Book Open Cover.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -524,7 +524,7 @@
     },
     "744e5074-e907-20a2-a2a0-a5aa2aff0e77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Cell Bars.mesh.nasset/Cell Bars Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -533,12 +533,6 @@
     "74a645f6-717c-047c-e4da-6758c7e93030": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/DB_Enviro.tex.nasset"
-    },
-    "74e5159b-0ab5-4ac1-b761-55bb7fe0d93b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/GreySky.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
     "773cc685-1aeb-d2c9-9734-f5d02bf56836": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -550,7 +544,7 @@
     },
     "7ac612c5-1e4a-e55f-0223-579bfbb14531": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Candelabrum LG.mesh.nasset/Candelabrum LG Gold.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -566,7 +560,7 @@
     },
     "83dd100e-be96-7f78-ebe3-54d2c1e91500": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stone Wall.mesh.nasset/Stone Wall Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -574,7 +568,7 @@
     },
     "85551323-40da-0d64-7643-c6fb06b48665": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Window.mesh.nasset/Window Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -582,7 +576,7 @@
     },
     "8919ddfb-e4cd-cb7a-9132-998392271564": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Rock 03.mesh.nasset/Rock 03 Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -598,11 +592,17 @@
     },
     "8e9a0960-8466-32a5-9be9-b43192f4d68a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Book Open.mesh.nasset/Book Open Ink.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "91e56393-030e-429d-97a2-a261feb1f680": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/GreySky.mtli.nasset",
+        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
     "9290000f-8980-f9af-11df-60e5d847c36e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -630,7 +630,7 @@
     },
     "959e5ee3-dfac-fadb-6e54-b89972e0aadb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Gold Base.mesh.nasset/Chest Gold Base Gold Emissive.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -638,7 +638,7 @@
     },
     "96709eb0-4ead-7f3b-67f1-1499250c273b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Column Bot.mesh.nasset/Column Bot Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -646,7 +646,7 @@
     },
     "9850745c-e9b3-4681-1bbf-81688c9f983f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Floor.mesh.nasset/Floor Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -670,7 +670,7 @@
     },
     "9b019ca2-ebf4-d490-2063-43ca93b6cd7e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Vial.mesh.nasset/Potion Vial Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -678,7 +678,7 @@
     },
     "9c52cbe0-294c-402f-2730-775775f0bb21": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Tan.mesh.nasset/Potion Tan Cork.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -690,7 +690,7 @@
     },
     "9fc78038-ceda-08de-ae91-34ca51a2e8be": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion Tan.mesh.nasset/Potion Tan Yellow.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -711,7 +711,7 @@
     },
     "a60f01a8-5b09-7a34-0ee7-e6860e21e770": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Candelabrum LG.mesh.nasset/Candelabrum LG Candle.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -719,7 +719,7 @@
     },
     "a8d8c269-f810-7342-5564-f517478694af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion White LG.mesh.nasset/Potion White LG Cork.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -735,7 +735,7 @@
     },
     "b04a67b0-69f0-a961-4db2-b9694fc20dc4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stone Wall Entrance.mesh.nasset/Stone Wall Entrance Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -743,7 +743,7 @@
     },
     "b05414bd-a302-2335-0790-0ed760110342": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion White.mesh.nasset/Potion White Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -799,7 +799,7 @@
     },
     "b88a8115-0f56-ece8-1671-66d1de6cca50": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Window.mesh.nasset/Window Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -819,7 +819,7 @@
     },
     "bea758db-322f-5050-b5c3-9ffdec3be0d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag SM.mesh.nasset/Flag SM Fabric Blue Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -835,7 +835,7 @@
     },
     "c0f3453b-4b40-49f6-a43a-79c8329f47c7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stone Wall Entrance.mesh.nasset/Stone Wall Entrance Rock 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -843,7 +843,7 @@
     },
     "c2fc17bc-dfa0-0672-54a7-3a17c5832eef": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag LG.mesh.nasset/Flag LG Fabric White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -856,7 +856,7 @@
     },
     "c4fd7779-3184-b073-e922-0af44f45d2ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Barrel.mesh.nasset/Barrel Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -872,7 +872,7 @@
     },
     "c8c95ef0-4d99-8f72-d84e-d69f3e579f47": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Column Top.mesh.nasset/Column Top Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -888,7 +888,7 @@
     },
     "d3e7267a-f251-e7ff-5b1c-1e04d0184ccf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Rock 04.mesh.nasset/Rock 04 Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -908,7 +908,7 @@
     },
     "d5849e9d-c685-dbb2-f733-61aad51f1127": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag LG.mesh.nasset/Flag LG Fabric Blue Light 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -916,7 +916,7 @@
     },
     "d5acc4a1-1acd-2f34-268a-b9812ac3cee8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Potion White LG.mesh.nasset/Potion White LG Liquid.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -944,7 +944,7 @@
     },
     "de045d75-1376-018a-1b87-3e296d2ea15e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Torch.mesh.nasset/Torch Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -964,7 +964,7 @@
     },
     "e2bafb20-e811-91ec-da5b-3e89717545b9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Carpet.mesh.nasset/Carpet Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -972,7 +972,7 @@
     },
     "e50386ec-26cf-b343-8339-629712005dfa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Candle.mesh.nasset/Candle Candle.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -980,7 +980,7 @@
     },
     "e8109972-3072-ff09-21e6-a23965680590": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Gold Base.mesh.nasset/Chest Gold Base Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -996,7 +996,7 @@
     },
     "eb4b1e62-16c3-1af0-23bc-1e1e08a72c88": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Rock 01.mesh.nasset/Rock 01 Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1012,7 +1012,7 @@
     },
     "f03769cf-6c00-f3d3-dd95-01dc8796ac3d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Lid.mesh.nasset/Chest Lid Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1020,7 +1020,7 @@
     },
     "f0c5d55c-ba38-4a11-5fdc-89e1c1935014": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Stairs.mesh.nasset/Stairs Rock 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1032,7 +1032,7 @@
     },
     "f46f563e-7403-a279-d587-8167011cbc01": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag LG.mesh.nasset/Flag LG Sandstone.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1048,7 +1048,7 @@
     },
     "f87dfc42-7e01-56b1-bcc2-93e3480c840a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Chest Base.mesh.nasset/Chest Base Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1056,7 +1056,7 @@
     },
     "f8d456d2-600b-21cf-593e-9008d82a3516": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Torch.mesh.nasset/Torch Steel Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1072,7 +1072,7 @@
     },
     "ffbbd7eb-0d62-f30d-aca8-01c81d119057": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Dungeon_Born.scene.nasset/Flag SM.mesh.nasset/Flag SM Fabric Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
