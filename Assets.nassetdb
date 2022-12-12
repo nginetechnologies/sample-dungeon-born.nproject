@@ -604,10 +604,6 @@
         "path": "Assets/GreySky.mtli.nasset",
         "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
-    "9290000f-8980-f9af-11df-60e5d847c36e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/DB_EnviroBRDF.tex.nasset"
-    },
     "9305550a-2ef6-8128-4a74-4ea1472e868f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Sandstone.mtli.nasset"
