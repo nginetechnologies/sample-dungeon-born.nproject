@@ -1,6 +1,7 @@
 {
     "name": "Dungeon Born",
     "guid": "0949eacc-0b23-455f-9d80-a1bfc68efe17",
+    "database_guid": "0b2442a2-70a0-7e44-6f43-b5e3b5670267",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "1cf6b880-63fd-4126-926b-3ef90f14238d",
-    "default_scene": "a565dec7-385e-467f-b315-451173c72d96",
+    "default_scene": "2c8d5ae1-c402-4ded-a69b-4f134036c05f",
     "source": "Dungeon_Born.nproject",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
 	"settings": {
